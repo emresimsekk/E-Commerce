@@ -1,0 +1,25 @@
+﻿
+.row::after {content:" ";clear: both; display:table;}
+.col-1 {width: 8.33%; float:left;}
+.col-2 {width: 16.66%;float:left;}
+.col-3 {width: 25%;float:left;}
+.col-4 {width: 33.33%;float:left;}
+.col-5 {width: 41.66%;float:left;}
+.col-6 {width: 50%; float:left;}
+.col-7 {width: 58.33%;float:left;}
+.col-8 {width: 66.66%;float:left;}
+.col-9 {width: 75%;float:left;}
+.col-10 {width: 83.33%;float:left;}
+.col-11 {width: 91.66%;float:left;}
+.col-12 { width: 100%; float:left;}
+
+.top{padding-top:2%;padding-bottom:2%;margin-top:5px;}
+.popup{width:550px;height:220px;background-color:#f3f3f3;position:fixed; top:300px;left:520px;border-radius:6px;-webkit-transition: opacity 1s ease-in-out;-moz-transition: opacity 1s ease-in-out;-o-transition: opacity 1s ease-in-out; transition: opacity 1s ease-in-out; }
+.uyeTamam{width:100%;padding-top:40px;padding-left:6%; color:#2a2a2a}
+.btnBizeKatil{width:130px;height:30px;background-color:#64bfc4;outline:none;border:none;color:white;}
+.popupHeader{width:45%;float:left;padding-left:5%;padding-top:3%;padding-bottom:3%;border-top-left-radius:5px;color:#f9f9f9}
+.close{width:45%;text-align:right;float:left;padding-right:5%;padding-top:3%;padding-bottom:3%;border-top-right-radius:5px;}
+.login{width:100%;text-align:center;padding-top:40px;}
+.btnClose{outline:none;text-decoration:none;border:none;background-color:none;color:#2a2a2a;}
+.popHeader{background-color:#4d4d4d;width:100%;height:50px; opacity:0.9}
+

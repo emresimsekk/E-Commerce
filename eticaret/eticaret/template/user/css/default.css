@@ -1,0 +1,24 @@
+﻿.row::after {content:" ";clear: both; display:table;}
+.col-1 {width: 8.33%; float:left;}
+.col-2 {width: 16.66%;float:left;}
+.col-3 {width: 25%;float:left;}
+.col-4 {width: 33.33%;float:left;}
+.col-5 {width: 41.66%;float:left;}
+.col-6 {width: 50%; float:left;}
+.col-7 {width: 58.33%;float:left;}
+.col-8 {width: 66.66%;float:left;}
+.col-9 {width: 75%;float:left;}
+.col-10 {width: 83.33%;float:left;}
+.col-11 {width: 91.66%;float:left;}
+.col-12 { width: 100%; float:left;}
+
+
+.menuHeader{height:40px;background-color:#62bfc4;width:80%;padding-left:20%;display:table;color:#ffffff; font-size:0.9em;margin-bottom:4px;}
+.subMenu{height:30px;background-color:white; width:80%;padding-left:20%;display:table;margin-bottom:4px;font-size:0.8em}
+.subMenu a{color:#464646;text-decoration:none;outline:none;}
+.subMenu p{display:table-cell;vertical-align:middle; }
+.menuHeader p{display:table-cell;vertical-align:middle; }
+.top{background-color:#f3f3f3;padding-top:2%;padding-bottom:2%;margin-top:5px;}
+.jssorl-oval img{animation-name:jssorl-oval;animation-duration:1.2s;animation-iteration-count:infinite;animation-timing-function:linear}@keyframes jssorl-oval{from{transform:rotate(0);}to{transform:rotate(360deg);}}.jssorb05{position:absolute}.jssorb05 div,.jssorb05 div:hover,.jssorb05 .av{position:absolute;width:16px;height:16px;background:url('../icon/slider/b05.png') no-repeat;overflow:hidden;cursor:pointer}.jssorb05 div{background-position:-7px -7px}.jssorb05 div:hover,.jssorb05 .av:hover{background-position:-37px -7px}.jssorb05 .av{background-position:-67px -7px}.jssorb05 .dn,.jssorb05 .dn:hover{background-position:-97px -7px}.jssora22l,.jssora22r{display:block;position:absolute;width:40px;height:58px;cursor:pointer;background:url('../icon/slider/a22.png') center center no-repeat;overflow:hidden}.jssora22l{background-position:-10px -31px}.jssora22r{background-position:-70px -31px}.jssora22l:hover{background-position:-130px -31px}.jssora22r:hover{background-position:-190px -31px}.jssora22l.jssora22ldn{background-position:-250px -31px}.jssora22r.jssora22rdn{background-position:-310px -31px}.jssora22l.jssora22lds{background-position:-10px -31px;opacity:.3;pointer-events:none}.jssora22r.jssora22rds{background-position:-70px -31px;opacity:.3;pointer-events:none}
+.slider{width:80%;}
+

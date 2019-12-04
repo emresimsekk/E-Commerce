@@ -1,0 +1,272 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="eticaret.master.cs" Inherits="eticaret.template.user.master.eticaret" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="tr">
+<head runat="server">
+    <title>E-Ticaret</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+   <link href="../css/eticaret.css" rel="stylesheet" />
+    <script src="../js/master.js"></script>
+    <script src="../js/modernizr.custom.js"></script>
+
+  
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>  
+      <script src="../js/master.js"></script>
+    <form id="form1" runat="server">
+        <div class="header">
+               <div class="row">
+                  <div class="col-12">
+                      <div class="headerTop">
+
+                             <div class="col-1">&nbsp;</div>
+                             <div class="col-4">
+                                <div class="socialIcon">
+                                         <div class="col-1"><a href="#"> <div class="facebook">&nbsp;</div></a></div>
+                                         <div class="col-1"><a href="#"><div class="instagram">&nbsp;</div></a></div>
+                                         <div class="col-1"><a href="#"><div class="twitter">&nbsp;</div></a></div>
+                                         <div class="col-1"><a href="#"><div class="youtube">&nbsp;</div></a></div>
+                                         <div class="col-1"><a href="#"><div class="email">&nbsp;</div></a></div>
+                                         <div class="col-1"><a href="#"><div class="google">&nbsp;</div></a></div>
+                                 </div>
+                          </div>
+                          <div class="col-6">
+                          
+                              <asp:Panel ID="pnlGiris" runat="server">
+                               <div class="login-register"><a href="bizeKatil.aspx">Bize Katıl &nbsp;&nbsp;| </a><a href="../page/uyeGiris.aspx">&nbsp; Giriş Yap </a></div>
+                                  </asp:Panel>
+                              <asp:Panel ID="pnlHosgeldiniz" runat="server"><div class="userName"><p>Hoşgeldin &nbsp; <asp:Label ID="lblAdi" runat="server" ></asp:Label></p> </div> </asp:Panel>
+
+                           </div>
+
+                          <div class="col-1">&nbsp;</div>
+
+                       </div>
+                  </div>
+            </div>
+
+            <div class="row">
+
+                <div class="headerMid">
+                    <div class="col-2" >&nbsp;</div>
+                    <div class="col-4 logo">LOGO  E-TİCARET</div>
+                    <div class="col-4 search" ">
+                 
+                           <asp:TextBox ID="txtsearch" CssClass="txtSearch" placeHolder="kelime, posta kodu, başlık" runat="server"></asp:TextBox>
+                   
+
+                    </div>
+                    <div class="col-2"  >&nbsp;</div>
+                </div>
+
+            </div>
+            	<div id="dl-menu" class="dl-menuwrapper">
+						<button class="dl-trigger">Menü</button>
+						<ul class="dl-menu">
+							<li>
+								<a href="../page/default.aspx">Anasayfa</a>
+							</li>
+                            <li>
+                                <a href="../page/kategori.aspx?ustKatID=9&durum=0">Bilgisayar</a>
+                            </li>
+                            <li>
+                                <a href="../page/ustKategori.aspx?enUstKatID=2&durum=0">Cep Telefonu</a>
+                            </li>
+                            <li>
+                                <a href="../page/ustKategori.aspx?enUstKatID=3&durum=0">Fotograf & Kamera</a>
+                            </li>
+                            <li>
+                                <a href="../page/ustKategori.aspx?enUstKatID=4&durum=0">Ev Dekorasyon</a>
+                            </li>
+                            <li>
+                                <a href="../page/ustKategori.aspx?enUstKatID=5&durum=0"">Ev Elektroniği</a>
+                            </li>
+						
+						</ul>
+					</div>
+
+
+
+		<script>
+			$(function() {
+				$( '#dl-menu' ).dlmenu({
+					animationClasses : { classin : 'dl-animate-in-5', classout : 'dl-animate-out-5' }
+				});
+			});
+		</script>
+            
+                
+            <div class="row user">
+            
+                <div class="col-4"><div class="ImagesSell"></div><div class="ImagesSellText"> Sen de Sat</div></div>
+         
+                    <div class="col-4"><div class="ImagesCart"></div><div class="ImagesCartText">Sepetim (25)</div></div>
+                
+                       <div class="col-4"><div class="ImagesUser"></div><div class="ImagesUserText">Hesabım</div></div>
+           
+
+            </div>
+      
+
+
+         <div class="row headerBottom">        
+                    <div class="col-1">&nbsp;</div>
+                    <div class="col-10">
+                        <div class="col-6">
+                          
+                                <div class="homePage col-1">&nbsp;</div>
+                             
+                                <div class="menu "><a href="../page/kategori.aspx?ustKatID=9&durum=0">Bilgisayar</a></div>
+                                <div class="menu "><a href="../page/ustKategori.aspx?enUstKatID=2&durum=0">Cep Telefonu</a></div>
+                                <div class="menu "><a href="../page/ustKategori.aspx?enUstKatID=3&durum=0"> Kamera</a></div>
+                                <div class="menu "><a href="../page/ustKategori.aspx?enUstKatID=4&durum=0">Dekorasyon</a></div>
+                              
+                               <div class="menu "><a href="../page/ustKategori.aspx?enUstKatID=5&durum=0">Ev Elektroniği</a></div>
+
+                        </div>
+                     
+                        <div class="col-6">
+                             <div class="profile" >
+                      
+                                   <asp:Panel ID="pnlUser" runat="server"> <div class="ImagesUserText"><a href="../page/eror.aspx"> Hesabım </a></div><div class="ImagesUser"></div></asp:Panel>
+                                 <asp:Panel ID="pnlFavori" runat="server"></asp:Panel>
+                                     <asp:Panel ID="pnlSat" runat="server">    <div class="ImagesSellText"><a href="../page/sendeSat.aspx"> Sen de Sat</a></div><div class="ImagesSell"></div></asp:Panel>
+                                    
+                             </div>
+
+                        </div>
+                    </div>
+                    <div class="col-1">&nbsp;</div>
+            </div>
+            	
+            
+            <div class="row headerBottomEk">
+                <div class="col-12"><br /></div>
+
+            </div>
+                   
+            
+
+            </div>
+        
+         
+           
+
+       <div class="ContentPlace">
+            <div class="content">
+
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+             </asp:ContentPlaceHolder>
+    
+            </div>  
+
+       </div>
+
+
+        <div class="footer">
+            <div class="topFooter">
+
+                <div class="col-2 mobileBlock">&nbsp;</div>
+                <div class="col-2 mobile">
+                    <div class="hood">Kategoriler</div>
+                    <div class="footerMenu">Vasıta</div>
+                    <div class="footerMenu">Elektronik</div>
+                    <div class="footerMenu">Mülk</div>
+                    <div class="footerMenu">Sanayi</div>
+                    <div class="footerMenu">Hayvanlar</div>
+                </div>
+                <div class="col-2 mobile">
+                    <div class="hood">Mağazalar</div>
+                    <div class="footerMenu">Mağazam</div>
+                    <div class="footerMenu">Mağaza Açmak İstiyorum</div>
+                    <div class="footerMenu">Neden Mağaza</div>
+                    <div class="footerMenu">Mağaza Fiyatları</div>
+            
+                </div>
+                <div class="col-2 mobile">
+                    <div class="hood">Gizlilk ve Kullanım</div>
+                    <div class="footerMenu">Güvenli Alışveriş İpuçları</div>
+                    <div class="footerMenu">Kullanım Koşulları</div>
+                    <div class="footerMenu">Üyelik Sözleşmesi</div>
+                    <div class="footerMenu">Gizlilik Politikası</div>
+                    <div class="footerMenu">Yardım ve İşlem Rehberi</div>
+                </div>
+                <div class="col-2 mobileBlock">&nbsp;</div>
+         
+
+
+
+            </div>
+           <div class="midFooter"></div>
+           <div class="bottomFooter"><p>© Copyright 2017 OEAZ YAZILIM HER HAKLARI SAKLIDIR</p></div>
+
+
+
+        </div>
+
+
+
+
+
+
+   <%--    <div class="footer">
+           <div class="topFooter">
+               <div class="footerText"></div>
+               <div class="footerText">
+
+                   <div class="textHood">Kategoriler</div>
+                   <div class="textMenu"><a href="#">Vasıta</a></div>
+                   <div class="textMenu"><a href="#">Elektronik</a></div>
+                   <div class="textMenu"><a href="#">Mülk</a></div>
+                   <div class="textMenu"><a href="#">Sanayi</a></div>
+                   <div class="textMenu"><a href="#">Hayvanlar</a></div>
+
+
+
+               </div>
+               <div class="footerText">
+                   
+                   <div class="textHood">Mağazalar</div>
+                   <div class="textMenu"><a href="#">Mağazam</a></div>
+                   <div class="textMenu"><a href="#">Mağaza Açmak İstiyorum</a></div>
+                   <div class="textMenu"><a href="#">Neden Mağaza</a></div>
+                   <div class="textMenu"><a href="#">Mağaza Fiyatları</a></div>
+              
+               </div>
+               <div class="footerText">
+                   
+                   <div class="textHood">Gizlilik ve Kullanım</div>
+                   <div class="textMenu"><a href="#">Güvenli Alışverişin İpuçları</a></div>
+                   <div class="textMenu"><a href="#">Kullanım Koşulları</a></div>
+                   <div class="textMenu"><a href="#">Üyelik Sözleşmesi</a></div>
+                   <div class="textMenu"><a href="#">Gizlilik Politikası</a></div>
+                   <div class="textMenu"><a href="#">Yardım ve İşlem Rehberi</a></div>
+               </div>
+
+               <div class="workBanks">
+                  <div class="bankImage"><img src="../icon/bank/Maestro.png" width="60" height="40" /></div>
+                  <div class="bankImage"><img src="../icon/bank/MasterCard.png" width="60" height="40"/></div>
+                  <div class="bankImage"><img src="../icon/bank/Visa.png" width="60" height="40"/></div>
+                  <div class="bankImage"><img src="../icon/bank/ecoPayz.png" width="70" height="40"/></div>
+               </div>
+
+
+           </div>
+           --------------------------------TOPFOOTER-------------------------------------
+
+           <div class="midFoother"></div>
+           <div class="bottomFooter"><p>© Copyright 2017 OEAZ YAZILIM HER HAKLARI SAKLIDIR</p></div>
+       </div>--%>
+  
+    </form>
+    <script src="../js/master.js"></script>
+    <script src="../js/jquery.dlmenu.js"></script>
+    <script src="../js/modernizr.custom.js"></script>
+</body>
+</html>

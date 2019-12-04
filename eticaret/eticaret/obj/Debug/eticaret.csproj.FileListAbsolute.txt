@@ -1,0 +1,175 @@
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\eticaret.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\eticaret.pdb
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\obj\Debug\eticaret.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\eticaret\eticaret\obj\Debug\eticaret.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\obj\Debug\eticaret.pdb
+D:\eticaret\eticaret\bin\ApplicationInsights.config
+D:\eticaret\eticaret\bin\roslyn\csc.exe
+D:\eticaret\eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\eticaret\eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\eticaret\eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\eticaret\eticaret\bin\roslyn\System.Collections.Immutable.dll
+D:\eticaret\eticaret\bin\roslyn\System.Reflection.Metadata.dll
+D:\eticaret\eticaret\bin\roslyn\vbc.exe
+D:\eticaret\eticaret\bin\roslyn\VBCSCompiler.exe
+D:\eticaret\eticaret\bin\roslyn\VBCSCompiler.exe.config
+D:\eticaret\eticaret\bin\eticaret.dll.config
+D:\eticaret\eticaret\bin\eticaret.dll
+D:\eticaret\eticaret\bin\eticaret.pdb
+D:\eticaret\eticaret\bin\Microsoft.AI.Agent.Intercept.dll
+D:\eticaret\eticaret\bin\Microsoft.AI.DependencyCollector.dll
+D:\eticaret\eticaret\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\eticaret\eticaret\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\eticaret\eticaret\bin\Microsoft.AI.Web.dll
+D:\eticaret\eticaret\bin\Microsoft.AI.WindowsServer.dll
+D:\eticaret\eticaret\bin\Microsoft.ApplicationInsights.dll
+D:\eticaret\eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\eticaret\eticaret\bin\Microsoft.AI.DependencyCollector.xml
+D:\eticaret\eticaret\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\eticaret\eticaret\bin\Microsoft.AI.Web.xml
+D:\eticaret\eticaret\bin\Microsoft.AI.WindowsServer.xml
+D:\eticaret\eticaret\bin\Microsoft.ApplicationInsights.xml
+D:\eticaret\eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\eticaret\eticaret\obj\Debug\eticaret.csprojResolveAssemblyReference.cache
+D:\eticaret\eticaret\obj\Debug\eticaret.dll
+D:\eticaret\eticaret\obj\Debug\eticaret.pdb
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Data.v16.2.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Web.Resources.v16.2.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Web.v16.2.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Office.v16.2.Core.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Data.v16.2.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Web.v16.2.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\DevExpress.Office.v16.2.Core.xml
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\de\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\es\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ja\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ru\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\eticaret\eticaret\obj\Debug\eticaret.dll.licenses
+C:\Users\Emre\Desktop\eticaret\eticaret\bin\eticaret.dll.config
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\eticaret.dll.config
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\eticaret.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\eticaret.pdb
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Data.v16.2.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Web.Resources.v16.2.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Web.v16.2.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Office.v16.2.Core.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Data.v16.2.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Web.v16.2.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\DevExpress.Office.v16.2.Core.xml
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\de\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\es\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ja\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ru\DevExpress.Web.v16.2.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\bin\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\obj\Debug\eticaret.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\obj\Debug\eticaret.dll.licenses
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\obj\Debug\eticaret.dll
+C:\Users\Emre\Desktop\Son Yedek\eticaret\eticaret\obj\Debug\eticaret.pdb

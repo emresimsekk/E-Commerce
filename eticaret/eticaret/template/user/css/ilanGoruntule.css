@@ -1,0 +1,43 @@
+﻿
+.row::after {content:" ";clear: both; display:table;}
+.col-1 {width: 8.33%; float:left;}
+.col-2 {width: 16.66%;float:left;}
+.col-3 {width: 25%;float:left;}
+.col-4 {width: 33.33%;float:left;}
+.col-5 {width: 41.66%;float:left;}
+.col-6 {width: 50%; float:left;}
+.col-7 {width: 58.33%;float:left;}
+.col-8 {width: 66.66%;float:left;}
+.col-9 {width: 75%;float:left;}
+.col-10 {width: 83.33%;float:left;}
+.col-11 {width: 91.66%;float:left;}
+.col-12 { width: 100%; float:left;}
+
+.top{padding-top:2%;padding-bottom:2%;margin-top:5px;}
+.gosterge{width:100%;height:30px; }
+.gostergeImages{float:left;padding-left:10%;width:2%;margin-top:2px;}
+.gostergeText{float:left;font-size:0.8em;color:#505050;margin-top:6px;}
+
+.border{border:solid 1px red;}
+.sliderLeft{height:30%;background-color:#f3f3f3;margin-bottom:7%;}
+.sliderBig{height:402px;background-color:#f3f3f3;margin-left:4%}
+.headerText{font-size:1.1em;padding-top:7px;padding-bottom:15px;font-family:'Sitka Heading';font-weight:bold}
+.name{padding-top:7px;padding-bottom:7px;font-size:1em;font-family:'Sitka Heading';font-weight:bold}
+.data{padding-top:7px;padding-bottom:7px;font-size:1em;font-family:'Sitka Banner'}
+.leftImages{width:80%;margin-left:23%;margin-right:25%;padding-top:10%;margin-bottom:10%;}
+.imagesLeft{width:70%;}
+.ImagesBig{width:90%;}
+.bigImages{width:80%;margin-left:15%;margin-right:15%;margin-top:7%}
+.fav{float:right;text-align:right;margin-right:10%;}
+.color{color:#64bfc4;font-weight:600;}
+.space{width:20%; float:left;}
+.urunBilgi{width:60%;float:left; text-align:center;color:#373737;}
+.urunBilgi a{text-decoration:none;color:#373737;text-align:center;}
+.productRight{background-color:#cecece;height:40px;margin-bottom:20px;opacity:.9;width:90%}
+.aciklama{width:100%;background-color:#cecece;;margin-bottom:20px;opacity:.9;padding-left:20px;padding-right:20px;padding-top:30px;padding-bottom:30px;}
+.productLeft{background-color:#cecece;height:40px;margin-bottom:20px;opacity:.9;width:90%;margin-left:10%;}
+.productName{font-size:1em;font-family:'Sitka Heading';font-weight:bold;margin-left:5%;margin-right:28px; margin-top:10px; padding-top:10px;float:left;display:table;}
+
+.productData{float:left;font-size:1em;font-family:'Sitka Banner';padding-top:10px;}
+
+.deneme{outline:none;border:none;text-decoration:none;border-color:none;}
